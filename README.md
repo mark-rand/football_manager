@@ -1,4 +1,64 @@
 # football_manager
 Copy of Kevin Tomm's football manager from 1982
 
-You can see the original code in [footman.txt](footman.txt)
+You can see the original code in [footmang.txt](footmang.txt)
+
+Map of the code
+
+Subroutines
+260
+270
+280
+290
+300
+350
+360
+400
+450
+460
+1000
+1010
+1020
+1030
+1040
+1050
+1080
+1090
+1100
+1120
+1160
+1170
+1180
+2000
+2400
+2540
+2550
+2800
+2900
+3000
+3200
+4000
+4100
+4240
+4500
+4600
+4700
+5000
+5200
+6000
+6500
+7000
+7500
+7710
+7805
+8000
+8100
+8500
+8600
+8700
+8785
+8800
+8900
+9000
+9400
+9500
