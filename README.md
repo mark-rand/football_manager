@@ -5,7 +5,7 @@ You can see the original code in [footmang.txt](footmang.txt)
 
 Map of the code
 
-Subroutines
+```Subroutines
 260 - loads the football characters (graphics) into memory  
 270 - 
 280 - 
@@ -64,9 +64,9 @@ Subroutines
 9000 - Loads the footballer names into an array p$
 9400 - Change team names
 9500 - Change player names
-
+```
 Variables
-a$() - Just an array of labels defined at line 9155
+```a$() - Just an array of labels defined at line 9155
 p$() - the footballer names
 l$() - Array of level labels
 m$ - manager name
@@ -91,7 +91,7 @@ s() - scores in the matches
 tco - team colour
 v() - value of player
 x9 - gate receipts
-u() - I think this might be the matches?
+u() - I think this might be the matches?```
 
 p = count of players picked
 p1 = count of players available
