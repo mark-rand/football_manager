@@ -703,8 +703,9 @@
 
  
 
- # No idea what this weird loop is for!
+ # Set team list page to 0
  8900 LET d1=0
+ # Increment team list page
  8902 LET d1=d1+1
  8905 IF d1>4 THEN GO TO 8900
  8910 CLS 
