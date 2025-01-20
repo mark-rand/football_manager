@@ -3,6 +3,14 @@ Copy of Kevin Tomm's football manager from 1982
 
 You can see the original code in [footmang.txt](footmang.txt)
 
+## Cheats
+An easy cheat - break into the code and type:
+`6030 LET y(i)=20`
+Then press continue - 20 energy for all players all the time
+OR
+`LET m = 1000000`
+Gives you 1 million in the bank.
+
 Map of the code
 
 ```Subroutines
